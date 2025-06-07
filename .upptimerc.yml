@@ -3,6 +3,8 @@ owner: ansg191-lab
 repo: uptime
 
 sites:
+  - name: anshulg.com
+    url: https://anshulg.com
   - name: Miniflux
     url: https://miniflux.anshulg.com
   - name: KanIDM
