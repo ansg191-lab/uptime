@@ -22,19 +22,19 @@
     "url": "https://miniflux.anshulg.com",
     "icon": "https://icons.duckduckgo.com/ip3/miniflux.anshulg.com.ico",
     "slug": "miniflux",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 373,
-    "timeWeek": 351,
-    "timeMonth": 351,
-    "timeYear": 351,
+    "status": "up",
+    "uptime": "98.34%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
+    "time": 440,
+    "timeDay": 545,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2025-06-09": 0
+      "2025-06-09": 26
     }
   },
   {
