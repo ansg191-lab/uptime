@@ -44,19 +44,19 @@
     "url": "https://auth.anshulg.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.anshulg.com.ico",
     "slug": "kan-idm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 411,
-    "timeWeek": 292,
-    "timeMonth": 326,
-    "timeYear": 326,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 335,
+    "timeDay": 447,
+    "timeWeek": 316,
+    "timeMonth": 335,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2025-06-19": 0
+      "2025-06-19": 10
     }
   },
   {
