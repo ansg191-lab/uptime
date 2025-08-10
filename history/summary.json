@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.anshulg.com.ico",
     "slug": "kan-idm",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "95.50%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.90%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.90%",
     "time": 329,
     "timeDay": 244,
     "timeWeek": 296,
     "timeMonth": 298,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-08-10": 65
+      "2025-08-10": 90
     }
   },
   {
@@ -64,12 +64,12 @@
     "url": "https://git.anshulg.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.anshulg.com.ico",
     "slug": "git",
-    "status": "up",
-    "uptime": "94.26%",
-    "uptimeDay": "37.99%",
+    "status": "down",
+    "uptime": "94.31%",
+    "uptimeDay": "39.72%",
     "uptimeWeek": "75.21%",
     "uptimeMonth": "88.25%",
-    "uptimeYear": "94.26%",
+    "uptimeYear": "94.31%",
     "time": 4309,
     "timeDay": 5437,
     "timeWeek": 4627,
@@ -103,8 +103,7 @@
       "2025-07-13": 76,
       "2025-07-12": 44,
       "2025-07-11": 65,
-      "2025-07-05": 38,
-      "2025-07-04": 41
+      "2025-07-05": 38
     }
   },
   {
