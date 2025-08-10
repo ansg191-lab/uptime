@@ -44,19 +44,19 @@
     "url": "https://auth.anshulg.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.anshulg.com.ico",
     "slug": "kan-idm",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "92.46%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.88%",
-    "time": 329,
-    "timeDay": 244,
-    "timeWeek": 296,
-    "timeMonth": 298,
-    "timeYear": 329,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "91.48%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.87%",
+    "time": 332,
+    "timeDay": 378,
+    "timeWeek": 323,
+    "timeMonth": 305,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2025-08-10": 109
+      "2025-08-10": 123
     }
   },
   {
@@ -64,14 +64,14 @@
     "url": "https://git.anshulg.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.anshulg.com.ico",
     "slug": "git",
-    "status": "up",
-    "uptime": "94.29%",
-    "uptimeDay": "39.72%",
+    "status": "down",
+    "uptime": "94.33%",
+    "uptimeDay": "40.64%",
     "uptimeWeek": "75.02%",
     "uptimeMonth": "88.20%",
-    "uptimeYear": "94.29%",
+    "uptimeYear": "94.33%",
     "time": 4369,
-    "timeDay": 6519,
+    "timeDay": 6873,
     "timeWeek": 4887,
     "timeMonth": 5269,
     "timeYear": 4369,
@@ -102,8 +102,7 @@
       "2025-07-14": 105,
       "2025-07-13": 76,
       "2025-07-12": 44,
-      "2025-07-11": 65,
-      "2025-07-05": 38
+      "2025-07-11": 65
     }
   },
   {
