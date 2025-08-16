@@ -64,16 +64,16 @@
     "url": "https://git.anshulg.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.anshulg.com.ico",
     "slug": "git",
-    "status": "up",
-    "uptime": "93.92%",
-    "uptimeDay": "42.08%",
+    "status": "down",
+    "uptime": "94.03%",
+    "uptimeDay": "43.79%",
     "uptimeWeek": "60.76%",
-    "uptimeMonth": "86.13%",
-    "uptimeYear": "93.92%",
+    "uptimeMonth": "86.38%",
+    "uptimeYear": "94.03%",
     "time": 4267,
     "timeDay": 5037,
     "timeWeek": 4406,
-    "timeMonth": 4721,
+    "timeMonth": 4688,
     "timeYear": 4267,
     "dailyMinutesDown": {
       "2025-08-16": 396,
@@ -90,7 +90,7 @@
       "2025-08-05": 415,
       "2025-08-04": 66,
       "2025-08-03": 175,
-      "2025-08-02": 247
+      "2025-08-02": 140
     }
   },
   {
