@@ -9,8 +9,6 @@ sites:
     url: https://miniflux.anshulg.com
   - name: KanIDM
     url: https://auth.anshulg.com
-  - name: Git
-    url: https://git.anshulg.com
   - name: Debian Repo
     url: https://apt.anshulg.com
 
