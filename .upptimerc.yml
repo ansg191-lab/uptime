@@ -3,14 +3,14 @@ owner: ansg191-lab
 repo: uptime
 
 sites:
-  - name: anshulg.com
-    url: https://anshulg.com
-  - name: Miniflux
-    url: https://miniflux.anshulg.com
+  # - name: anshulg.com
+  #   url: https://anshulg.com
+  # - name: Miniflux
+  #   url: https://miniflux.anshulg.com
   - name: KanIDM
     url: https://auth.anshulg.com
-  - name: Debian Repo
-    url: https://apt.anshulg.com
+  # - name: Debian Repo
+  #   url: https://apt.anshulg.com
 
 status-website:
   cname: status.anshulg.com
