@@ -4,19 +4,19 @@
     "url": "https://anshulg.com",
     "icon": "https://icons.duckduckgo.com/ip3/anshulg.com.ico",
     "slug": "anshulg-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 4661,
-    "timeWeek": 1285,
-    "timeMonth": 430,
+    "timeDay": 3165,
+    "timeWeek": 1162,
+    "timeMonth": 422,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-11-15": 1
+      "2025-11-15": 7
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "miniflux",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "92.12%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.66%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.86%",
     "time": 436,
     "timeDay": 294,
@@ -36,7 +36,7 @@
     "timeMonth": 291,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-11-15": 113,
+      "2025-11-15": 120,
       "2025-06-14": 139,
       "2025-06-10": 40,
       "2025-06-09": 26
