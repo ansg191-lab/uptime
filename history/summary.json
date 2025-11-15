@@ -1,48 +1,5 @@
 [
   {
-    "name": "anshulg.com",
-    "url": "https://anshulg.com",
-    "icon": "https://icons.duckduckgo.com/ip3/anshulg.com.ico",
-    "slug": "anshulg-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 3165,
-    "timeWeek": 1162,
-    "timeMonth": 422,
-    "timeYear": 228,
-    "dailyMinutesDown": {
-      "2025-11-15": 7
-    }
-  },
-  {
-    "name": "Miniflux",
-    "url": "https://miniflux.anshulg.com",
-    "icon": "https://icons.duckduckgo.com/ip3/miniflux.anshulg.com.ico",
-    "slug": "miniflux",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "91.66%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.86%",
-    "time": 436,
-    "timeDay": 294,
-    "timeWeek": 278,
-    "timeMonth": 291,
-    "timeYear": 436,
-    "dailyMinutesDown": {
-      "2025-11-15": 120,
-      "2025-06-14": 139,
-      "2025-06-10": 40,
-      "2025-06-09": 26
-    }
-  },
-  {
     "name": "KanIDM",
     "url": "https://auth.anshulg.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.anshulg.com.ico",
@@ -54,34 +11,14 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 327,
-    "timeDay": 409,
-    "timeWeek": 341,
-    "timeMonth": 322,
+    "timeDay": 402,
+    "timeWeek": 347,
+    "timeMonth": 324,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2025-10-26": 25,
       "2025-10-22": 16,
       "2025-08-10": 123
-    }
-  },
-  {
-    "name": "Debian Repo",
-    "url": "https://apt.anshulg.com",
-    "icon": "https://icons.duckduckgo.com/ip3/apt.anshulg.com.ico",
-    "slug": "debian-repo",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 136,
-    "timeDay": 138,
-    "timeWeek": 148,
-    "timeMonth": 137,
-    "timeYear": 136,
-    "dailyMinutesDown": {
-      "2025-06-12": 15
     }
   }
 ]
